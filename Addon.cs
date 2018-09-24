@@ -1,12 +1,12 @@
 ﻿using Sandbox;
 
-namespace SuicideBarrels
+namespace DarkRP
 {
     public class Addon : BaseAddon
     {
         public override void Loaded(IAddonResources resources)
         {
-            Log.Info("Suicide Barrels Loaded!");
+            Log.Info("DarkRP Loaded!");
         }
     }
 }
